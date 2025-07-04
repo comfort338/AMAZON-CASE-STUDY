@@ -77,4 +77,4 @@ Using the cleaned dataset and pivot outputs, a dynamic Excel dashboard was creat
 The dashboard is designed to be interactive, visually clean, and decision-focused.
 
 ## ✅ Conclusion
-This project demonstrates how Excel can be used to transform raw e-commerce data into actionable insights. From identifying top-performing products to understanding customer sentiment, the analysis supports data-driven decisions for product strategy, marketing, and customer engagement. 📫 Contact For questions or collaborations: 📧 Email: [commyjohn700@gmail.com]
+This project demonstrates how Excel can be used to transform raw e-commerce data into actionable insights. From identifying top-performing products to understanding customer sentiment, the analysis supports data-driven decisions for product strategy, marketing, and customer engagement. 📫 Contact For questions or collaborations: 📧 Email: [commyjohn700@gmail.com] Linkedin (https://www.linkedin.com/in/comfort-etunwoke-016a7128a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
